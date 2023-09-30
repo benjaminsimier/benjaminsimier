@@ -1,13 +1,21 @@
-- 👋 Hi, I’m Benjamin Simier
-- 👀 I’m interested in JS, PHP, WordPress and else
-- 🌱 I’m currently learning many things
-- 👉 I'm a French web developer
-- 📍 I live in Thailand
+👋 Hi, I’m Benjamin Simier
+
+👀 I’m passionate about web and app development, with expertise in JS, PHP, WordPress, and a variety of other technologies.
+
+🌱 I’m constantly learning and exploring new frontiers in tech to keep my skills sharp and up-to-date.
+
+👉 I'm a French web developer based in the vibrant tech hub of Thailand, where I thrive on the fusion of culture and innovation.
+
+💡 Let's collaborate and bring your web and app ideas to life!
+
 
 <!---
 benjaminsimier/benjaminsimier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## My Tech Toolbox
+#### Adaptable and Quick Learner 🚀
 
 <img alt="Alt text" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Alt text" src="https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=Pug&logoColor=white"/>
 
@@ -21,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <img alt="Alt text" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img alt="Alt text" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/> <img alt="Alt text" src="https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white"/> 
 
-<img alt="Alt text" src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white"/> <img alt="Alt text" src="https://img.shields.io/badge/Drupal-0678BE.svg?style=for-the-badge&logo=Drupal&logoColor=white"/> <img alt="Alt text" src="https://img.shields.io/badge/Joomla-5091CD.svg?style=for-the-badge&logo=Joomla&logoColor=white"/> 
+<img alt="Alt text" src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white"/> <img alt="Alt text" src="https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white"/> <img alt="Alt text" src="https://img.shields.io/badge/Drupal-0678BE.svg?style=for-the-badge&logo=Drupal&logoColor=white"/> <img alt="Alt text" src="https://img.shields.io/badge/Joomla-5091CD.svg?style=for-the-badge&logo=Joomla&logoColor=white"/> 
 
 <img alt="Alt text" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black"/> <img alt="Alt text" src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/> 
 
